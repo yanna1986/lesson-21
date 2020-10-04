@@ -15,7 +15,7 @@ let wordsList = (str, subStr) => {
   });
 
   return res;
-};
+};-
 
 
 console.log(wordsList(myLongStr, 'lore'));
